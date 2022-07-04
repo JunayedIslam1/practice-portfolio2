@@ -1,3 +1,31 @@
-.para {
-    color: yellow;
+body {
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Gulzar', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex {
+    display: FLEX;
+    width: 100%;
+
+}
+
+.text {
+    padding-top: 70px;
+    padding-left: 60px;
+    padding-bottom: 30px;
+}
+
+.Button {
+    padding: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700px;
+    text-decoration: solid;
+}
+
+.background {
+    background-image: url(images/shapes/Frame\ 57.jpg);
 }
