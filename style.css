@@ -29,3 +29,45 @@ body {
 .background {
     background-image: url(images/shapes/Frame\ 57.jpg);
 }
+
+.align {
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.newflex {
+    display: flex;
+
+}
+
+.si {
+    box-shadow: 10px 10px 40px grey;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 15px;
+    padding-right: 20px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.last {
+    text-align: center;
+    color: black;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h6 {
+    font-size: 20px;
+    font-weight: 300px;
+    color: yellow;
+}
+
+#cc {
+    color: wheat;
+}
